@@ -5,6 +5,9 @@ def factorial(value):
     elif value == 0 or value == 1:
          return 1
     
+    elif value is str:
+         raise TypeError("Factorial is not defined for strings")
+    
     else:
          return value*factorial(value - 1)
 
