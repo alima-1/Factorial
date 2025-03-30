@@ -1,3 +1,7 @@
+# Pair programming 
+# Ayebazibwe Ishmael 
+# Ayikoru Alima 
+
 def factorial(value):
     if value < 0:
         raise ValueError("Factorial is not defined for negative numbers.")

@@ -1,3 +1,7 @@
+# Pair programming 
+# Ayebazibwe Ishmael 
+# Ayikoru Alima 
+
 import pytest
 from factorial import factorial
 
